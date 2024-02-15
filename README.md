@@ -52,7 +52,6 @@
         </a>
 </p>
 
-<!-- Details Section-->
 <details align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
@@ -82,7 +81,7 @@
     </p>
 </details>
 <br>
-
+<!-- Talha, Hasan, Mahbub-->
 <!-- Footer -->
 <samp>
     <p align="center">
