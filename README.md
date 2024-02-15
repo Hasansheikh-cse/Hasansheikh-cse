@@ -3,7 +3,6 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -24,7 +23,7 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="https://github.com/mahbubsk?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/Hasansheikh-cse?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
         <!-- HTML -->
