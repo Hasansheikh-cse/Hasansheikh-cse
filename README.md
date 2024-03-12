@@ -1,6 +1,6 @@
 <!-- https://github.com/ShahriarShafin/ -->
 <!-- April 15, 2021 -->
-<!-- leave a STAR, if you like it ! -->
+<!-- leave a STAR, if you like it! -->
 
 <!-- Profile Views Counter -->
 
