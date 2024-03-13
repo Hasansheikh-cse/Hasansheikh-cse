@@ -63,11 +63,11 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:skmahbubkr787@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:hasanseikh.cse@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
-        <a href="https://www.facebook.com/learner.mahbub/" target="_blank"><img alt="Facebook"
+        <a href="https://www.facebook.c/" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
